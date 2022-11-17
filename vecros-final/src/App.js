@@ -12,7 +12,7 @@ function App() {
       <br />
       <br />
     <Jet/>
-
+<hr />
 <p className='text-center'>
 
 <img src={require('./components/pic3.png')} class="img-fluid" alt="athera drone"/>
@@ -20,7 +20,7 @@ function App() {
   <h1>Vecros Cloud Sevice</h1>
   <p>Connected operations from anywhere in the world</p>
   </p>
-
+<hr />
 <Footer/>
     
     </>
