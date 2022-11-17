@@ -5,7 +5,7 @@ export default function Footer(){
 
         <footer>
         <p>
-           hello footer
+           Contact Us
         </p>
     </footer>
 

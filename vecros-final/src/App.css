@@ -37,6 +37,56 @@
   }
 }
 
+.header2{
+  border: 2px solid ;
+  color : white;
+  height: 30vh;
+  width: 50vw;
+  margin: auto;
+  background-color: #475569d0;
+  border-radius: 1rem;
+  padding: 1rem;
+  text-align:center;
+  
+  
+}
+
+.header2 p{
+  max-width:600px;
+  text-align:center;
+  
+  margin: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  
+
+}
+
+.link {
+  box-sizing: border-box;
+  text-decoration: none;
+  margin-top: 4vw;
+  
+}
+
+.primary{
+  max-width: 140px;
+  padding: 0.6rem 1.2rem;
+  background-color: rgb(62, 140, 167);
+  color: #fff;
+  margin: auto;
+  border-radius: 2rem;
+}
+
+.secondary{
+  max-width: 140px;
+  margin: auto;
+  padding: 0.6rem 1.2rem;
+  border-radius: 2rem;
+  border: 1px solid lightskyblue;
+  color: lightblue;
+}
+
 
 footer{
     

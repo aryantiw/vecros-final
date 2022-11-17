@@ -21,6 +21,20 @@ function App() {
   <p>Connected operations from anywhere in the world</p>
   </p>
 <hr />
+
+
+<div class="header2">
+        <br />
+        <p>
+            Order yours today
+        </p>
+        <br/>
+        <a class="primary link" href="/">Buy Now</a>
+
+    </div>
+
+    <br />
+    
 <Footer/>
     
     </>
